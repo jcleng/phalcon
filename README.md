@@ -30,3 +30,9 @@
 - [kafka](https://github.com/Aquarmini/kafka-demo-phalcon)
 - [机器学习](https://github.com/Aquarmini/ml-demo-phalcon)
 - [正则匹配](https://github.com/Aquarmini/regex-demo-phalcon)
+
+
+### 安装
+```shell
+composer install --ignore-platform-reqs
+```

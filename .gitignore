@@ -17,3 +17,4 @@ package-lock.json
 .scannerwork
 *.lock
 config.ini
+.vscode/
